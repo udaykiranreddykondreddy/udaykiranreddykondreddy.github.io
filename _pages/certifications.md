@@ -18,7 +18,7 @@ By Deeplearning.ai on coursera
 ### Natural Language Processing in TensorFlow
 By Deeplearning.ai on coursera
 <p>Third course on TensorFlow in Practice Specialization</p>
-<a href="https://www.coursera.org/account/accomplishments/records/2HR7W26G46SQ"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a><a href="https://github.com/udaykiranreddykondreddy/Tensorflow-in-practice-by-deeplearning.ai/tree/master/Natural-language-processing"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.coursera.org/account/accomplishments/records/2HR7W26G46SQ"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/Tensorflow-in-practice-by-deeplearning.ai/tree/master/Natural-language-processing"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 ### Convolutional Neural Networks in TensorFlow
 By Deeplearning.ai on coursera
