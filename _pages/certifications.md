@@ -91,12 +91,3 @@ By Google Cloud on coursera
 By Google Cloud on coursera
 <p>First course on Machine Learning with TensorFlow on Google Cloud Platform Specialization</p>
 <a href="https://www.coursera.org/account/accomplishments/records/ACVQ7MYPXFX2"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a>
-
-
-{:target="_blank"}
-## Connect with me on
-<a href="mailto:hello@udaykiran.dev"  class="btn btn-info" role="button"> <i class="fa fa-envelope-o fa-1x" aria-hidden="true"></i></a>
-<a href="https://github.com/udaykiranreddykondreddy/"  class="btn btn-info" role="button"> <i class="fa fa-github fa-1x" aria-hidden="true"></i></a>
-<a href="https://linkedin.com/in/udaykirankondredyy"  class="btn btn-info" role="button"> <i class="fa fa-linkedin fa-1x" aria-hidden="true"></i></a>
-<a href="https://twitter.com/ukondreddy1" class="btn btn-info" role="button"> <i class="fa fa-twitter fa-1x" aria-hidden="true"></i></a>
-<a href="https://instagram.com/udaykiran.kondreddy" class="btn btn-info" role="button"> <i class="fa fa-instagram fa-1x" aria-hidden="true"></i></a>
