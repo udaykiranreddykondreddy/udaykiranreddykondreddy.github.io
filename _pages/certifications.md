@@ -28,7 +28,7 @@ By Deeplearning.ai on coursera
 ### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 By Deeplearning.ai on coursera
 <p>First course on TensorFlow in Practice Specialization</p>
-<a href="https://www.coursera.org/account/accomplishments/records/X4X5WUXG2CBW"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a><a href="https://github.com/udaykiranreddykondreddy/Tensorflow-in-practice-by-deeplearning.ai/tree/master/intro-to-tensorflow"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.coursera.org/account/accomplishments/records/X4X5WUXG2CBW"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a>  <a href="https://github.com/udaykiranreddykondreddy/Tensorflow-in-practice-by-deeplearning.ai/tree/master/intro-to-tensorflow"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 ### 2018
 
@@ -40,12 +40,12 @@ By Deeplearning.ai on coursera
 ### Sequence Models
 By Deeplearning.ai on coursera
 <p>Five course on Deep Learning Specialization</p>
-<a href="https://www.coursera.org/account/accomplishments/verify/ECL5WC4CBWDF"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a><a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Sequence%20Models"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/ECL5WC4CBWDF"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Sequence%20Models"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 ### Convolutional Neural Networks
 By Deeplearning.ai on coursera
 <p>Fourth course on Deep Learning Specialization</p>
-<a href="https://www.coursera.org/account/accomplishments/certificate/PC3BF8F85AQD"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a><a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Convolutional%20Neural%20Networks%20Prev"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/PC3BF8F85AQD"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Convolutional%20Neural%20Networks%20Prev"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 ### Structuring Machine Learning Projects
 By Deeplearning.ai on coursera
@@ -55,12 +55,12 @@ By Deeplearning.ai on coursera
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 By Deeplearning.ai on coursera
 <p>Second course on Deep Learning Specialization</p>
-<a href="https://www.coursera.org/account/accomplishments/certificate/CV8QY7FJSDLU"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a><a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Improving%20Deep%20Neural%20Networks"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/CV8QY7FJSDLU"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Improving%20Deep%20Neural%20Networks"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 ### Neural Networks and Deep Learning
 By Deeplearning.ai on coursera
 <p>First course on Deep Learning Specialization</p>
-<a href="https://www.coursera.org/account/accomplishments/certificate/3MGW885TUNZX"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a><a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Neural_Networks_and_Deep_Learning"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/3MGW885TUNZX"  class="btn btn-info" role="button"> <i class="fa fa-certificate fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/tree/master/Neural_Networks_and_Deep_Learning"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 ### Machine Learning with TensorFlow on Google Cloud Platform Specialization
 By Google Cloud on coursera
