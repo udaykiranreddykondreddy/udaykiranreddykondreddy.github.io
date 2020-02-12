@@ -1,0 +1,52 @@
+---
+permalink: /projects/
+title: "Projects"
+---
+###2019
+
+### Morse code Generation with Fingers
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<p>My idea is to generate Morse Code with fingers. For more info check below links</p>
+<br/><a href="https://github.com/udaykiranreddykondreddy/Morse-code-with-fingers"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/watch?v=n-jaHrTmmo0"  class="btn btn-info" role="button"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+</div>
+
+###2018
+
+### Multi-class emotion AI by reconstructing linguistic context of words
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <p>This project mainly concentrates on categorizing the tweet into multiple class and the probability of that class. We used many algorithms like Naive Bayes, SVM, Decision trees,(avg tf-idf,idf) word2vec and we got 89% accuracy with avg tf-idf word2vec and that is low because of fewer data. we used euclidian distance to calculate the similarity between statements and we assigned the same sentiment which have highest similarity value.</p>
+  <br/><a href="https://github.com/KLGLUG/Sentimental-Analysis-on-Twitter"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+</div>
+
+### Machine learning flashcards action on Google assistant
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <p>Created a machine learning flashcards game on google assistant in two languages English and German. click below link for more information</p>
+  <br/><a href="https://assistant.google.com/services/a/uid/000000eb2fb86630?hl=en"  class="btn btn-info" role="button"> <i class="fa fa-android fa-2x" aria-hidden="true"></i></a>
+</div>
+
+###2017
+
+### Android Application ( KLEF FN )
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <p>Notification app to send college related and clubs related notifications to all students. This app also have study resources, e-login, website access, ERP, LMS.</p>
+  <br/><a href="https://play.google.com/store/apps/details?id=duobroscreations.klufn&hl=en"  class="btn btn-info" role="button"> <i class="fa fa-android fa-2x" aria-hidden="true"></i></a>
+</div>
+
+### hybrid cipher
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <p> Encryption algorithm with combination of Caesar cipher and Fibonacci series. Check the link below for more information</p>
+  <br/><a href="https://github.com/udaykiranreddykondreddy/Hybrid-Cipher"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+</div>
+
+{:target="_blank"}
+## Connect with me on
+<a href="mailto:hello@udaykiran.dev"  class="btn btn-info" role="button"> <i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
+<a href="https://github.com/udaykiranreddykondreddy/"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://linkedin.com/in/udaykirankondredyy"  class="btn btn-info" role="button"> <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+<a href="https://twitter.com/ukondreddy1" class="btn btn-info" role="button"> <i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+<a href="https://instagram.com/udaykiran.kondreddy" class="btn btn-info" role="button"> <i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>

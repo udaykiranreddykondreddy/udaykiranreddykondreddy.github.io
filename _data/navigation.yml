@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Talks"
+    url: /talks/
+  - title: "Community"
+    url: /community/
+  - title: "Projects"
+    url: /projects/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "CV"
+    url: /CV/
