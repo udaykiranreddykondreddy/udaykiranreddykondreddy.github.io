@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Uday Kiran"
-  avatar           : "/assets/images/udaykiran.jpg"
+  avatar           : 
   bio              : "AI evangelist, Machine learning engineer, influencer, Educator, Trainer"
   location         : "Hyderabad, India"
   target-blank     : "ext-link"
