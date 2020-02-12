@@ -1129,7 +1129,8 @@ img {
   height: auto;
 }
 .rotateimg270 {
-    border-radius: 6px;
+    position: relative;
+    top: 3px
 }
 .img-thumbnail {
   padding: 4px;
