@@ -17,11 +17,3 @@ I did my Bachelors degree in Computer science and engineering at K L University 
 I have broadly worked on machine learning and started exploring Natural language processing and Computer vision.
 
 I always learn by sharing, which made me to start an online community of Machine learning enthusiasts on Instagram [**@learn.machinelearning**](https://instagram.com/learn.machinelearning) with over 84,000 members.
-
-{:target="_blank"}
-## Connect with me on
-<a href="mailto:hello@udaykiran.dev"  class="btn btn-info" role="button"> <i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
-<a href="https://github.com/udaykiranreddykondreddy/"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-<a href="https://linkedin.com/in/udaykirankondredyy"  class="btn btn-info" role="button"> <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
-<a href="https://twitter.com/ukondreddy1" class="btn btn-info" role="button"> <i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
-<a href="https://instagram.com/udaykiran.kondreddy" class="btn btn-info" role="button"> <i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
