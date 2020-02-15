@@ -3,14 +3,12 @@ permalink: /projects/
 title: "Projects"
 ---
 
-### 2019
-
+## 2019
 ### Morse code Generation with Fingers
 <p>My idea is to generate Morse Code with fingers. For more info check below links</p>
 <a href="https://github.com/udaykiranreddykondreddy/Morse-code-with-fingers"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a> <a href="https://www.youtube.com/watch?v=n-jaHrTmmo0"  class="btn btn-info" role="button"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
 
-### 2018
-
+## 2018
 ### Quora questions pair similarity
 <p>This is a problem statement taken from kaggle where we need to predict whether given pair of questions are duplicate or not. For more info click the link below</p>
 <a href="https://github.com/udaykiranreddykondreddy/quora-question-similarity"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
@@ -23,8 +21,7 @@ title: "Projects"
 <p>Created a machine learning flashcards game on google assistant in two languages English and German. click below link for more information</p>
 <a href="https://assistant.google.com/services/a/uid/000000eb2fb86630?hl=en"  class="btn btn-info" role="button"> <i class="fa fa-android fa-2x" aria-hidden="true"></i></a>
 
-### 2017
-
+## 2017
 ### Android Application ( KLEF FN )
 <p>Notification app to send college related and clubs related notifications to all students. This app also have study resources, e-login, website access, ERP, LMS.</p>
 <a href="https://play.google.com/store/apps/details?id=duobroscreations.klufn&hl=en"  class="btn btn-info" role="button"> <i class="fa fa-android fa-2x" aria-hidden="true"></i></a>
