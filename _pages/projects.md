@@ -11,6 +11,10 @@ title: "Projects"
 
 ### 2018
 
+### Quora questions pair similarity
+<p>This is a problem statement taken from kaggle where we need to predict whether given pair of questions are duplicate or not. For more info click the link below</p>
+<a href="https://github.com/udaykiranreddykondreddy/quora-question-similarity"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+
 ### Multi-class emotion AI by reconstructing linguistic context of words
 <p>This project mainly concentrates on categorizing the tweet into multiple class and the probability of that class. We used many algorithms like Naive Bayes, SVM, Decision trees,(avg tf-idf,idf) word2vec and we got 89% accuracy with avg tf-idf word2vec and that is low because of fewer data. we used euclidian distance to calculate the similarity between statements and we assigned the same sentiment which have highest similarity value.</p>
 <a href="https://github.com/KLGLUG/Sentimental-Analysis-on-Twitter"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
