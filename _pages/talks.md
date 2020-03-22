@@ -5,7 +5,7 @@ title: "Talks"
 
 ### Breaking the black-box
 <p>Given a talk and code demo on <b>interpretable machine learning</b> in a meetup which is organised by Hyderabad Python user group in collaboration with Delhi Python user group</p>
-<a href="https://speakerdeck.com/udaykiran/breaking-the-black-box"  class="btn btn-info" role="button"> <i class="fa fa-file-powerpoint-o fa-1x" aria-hidden="true"></i></a>
+<a href="https://speakerdeck.com/udaykiran/breaking-the-black-box"  class="btn btn-info" role="button"> <i class="fa fa-file-powerpoint-o fa-1x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/hydpy-march-2020-meetup"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 
 
 ### prerequisites and why Math for machine learning
