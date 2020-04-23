@@ -1,9 +1,9 @@
 ---
 title: "Confused with confusion matrix??"
 date: 2020-04-15 5:00:00
-description: This tutorial will give you a very intuitive explanation of what is confusion matrix, Precision, Recall and F1 score through an example.
-
 ---
+
+This tutorial will give you a very intuitive explanation of what is confusion matrix, Precision, Recall and F1 score through an example.
 
 
 ## To view the video
