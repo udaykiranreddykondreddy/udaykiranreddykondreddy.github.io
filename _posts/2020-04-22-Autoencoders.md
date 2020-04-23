@@ -13,4 +13,4 @@ This tutorial will give you a very intuitive explanation of what is Autoencoder 
 </div>
 
 
-<a href="https://www.youtube.com/watch?v=FOqDY5NJFeI"  class="btn btn-info" role="button"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/Code-for-learn-machinelearning/tree/master/autoencoders"  class="btn btn-info" role="button"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/watch?v=FOqDY5NJFeI"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/Code-for-learn-machinelearning/tree/master/autoencoders"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
