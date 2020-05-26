@@ -5,9 +5,7 @@ title: "Learn Machine Learning Community"
 
 ### About
 
-![community logo](/assets/images/logo.jpg)
-
-<img src="/assets/images/logo.jpg" width="48">
+![community logo](/assets/images/logo.jpg) {:height="36px" width="36px"}.
 
 We as a community learn by sharing, We share theoretical concepts, practical explanation of theoretical concepts, Latest news and advancements in the field of Artificial intelligence and related domains.
 
