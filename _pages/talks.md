@@ -7,6 +7,10 @@ title: "Talks"
 <p>I was given a presentation on the interpretable machine learning and how they work at MUST research group(may-2020) webinar.</p>
 <a href="https://speakerdeck.com/udaykiran/breaking-the-black-box-of-neural-networks"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a>
 
+### Building simple Autoencoders with TensorFlow
+<p>I was given a presentation on autoencoders and how they work at tensorflow user group Hyderabad webinar.</p>
+<a href="https://speakerdeck.com/udaykiran/autoencoders"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a>
+
 ### Image generation and image colorization using Autoencoders
 <p>Given a talk and code demo on <b>Image generation and image colorization using Autoencoders</b> in a webinar, which is organised by TensorFlow user group coimbatore in collaboration with School of AI</p>
 <a href="https://github.com/udaykiranreddykondreddy/tfug_coimbatore_may_webinar"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a> <a href="https://www.youtube.com/watch?v=Gz1YLBKeDAo"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
