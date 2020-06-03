@@ -1,6 +1,6 @@
 ---
 title: "Why Mean, Median and Mode??"
-date: 2020-04-27 5:00:00
+date: 2020-06-03 5:00:00
 ---
 
 Ever wondered why you are learning Mean, Mode and Median as a prerequisite for machine learning. Today I will explain why you need to learn and where you need to use them. First let's understand what are these.
