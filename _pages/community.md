@@ -18,7 +18,7 @@ We as a community learn by sharing, We share theoretical concepts, practical exp
 
 <a href="https://www.linkedin.com/company/learn-machine-learning/"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-linkedin fa-6x" aria-hidden="true"></i></a>  Followers Count - 507
 
-<a href="https://t.me/LearnDotMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-telegram fa-6x" aria-hidden="true"></i></a>  Followers Count - 4000
+<a href="https://t.me/LearnDotMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-telegram fa-6x" aria-hidden="true"></i></a>  Followers Count - 4200
 
 <a href="https://www.youtube.com/c/LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-6x" aria-hidden="true"></i></a>  Subscribers Count - 636
 
@@ -26,4 +26,4 @@ We as a community learn by sharing, We share theoretical concepts, practical exp
 
 
 
-### Events
+### Ongoing Projects
