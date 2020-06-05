@@ -15,7 +15,7 @@ Ever wondered why you are learning Mean, Mode and Median as a prerequisite for m
 - The mean (or average) is the most popular and well-known measure of central tendency.
 - We can calculate the mean for both discrete and continuous data, although its use is most often with continuous data.
 - Formula
-[\begin{equation} \overline{x} = \frac{x_{(1)} + x_{(2)} + x_{(3)} + ... + x_{(n)}}{n} \end{equation}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+[\Large \overline{x} = \frac{x_1 + x_2 + x_3 + ... + x_n}{n}}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 [\begin{equation} \overline{x} = \frac{x_{(1)} + x_{(2)} + x_{(3)} + ... + x_{(n)}}{n} \end{equation}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 - we can also write this queation as
