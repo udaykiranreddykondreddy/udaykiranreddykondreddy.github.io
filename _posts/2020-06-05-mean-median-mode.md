@@ -7,7 +7,7 @@ Ever wondered why you are learning Mean, Mode and Median as a prerequisite for m
 
 You can find answers for these questions in the below code file with examples.
 
-If you like it please give a star for ![this](https://github.com/udaykiranreddykondreddy/Code-for-learn-machinelearning) repository.
+If you like it please give a star for <a href="https://github.com/udaykiranreddykondreddy/Code-for-learn-machinelearning" target="_blank">this</a> repository.
 
 ### Code
 
