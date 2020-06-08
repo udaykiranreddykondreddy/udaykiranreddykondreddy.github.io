@@ -13,4 +13,4 @@ This tutorial will give you a very intuitive explanation of what is confusion ma
 
 ## Video and Code
 
-<a href="https://www.youtube.com/watch?v=wmk2R8OF2ek"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykiranreddykondreddy/Code-for-learn-machinelearning/tree/master/performance_metric"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/watch?v=wmk2R8OF2ek"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/tree/master/performance_metric"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>

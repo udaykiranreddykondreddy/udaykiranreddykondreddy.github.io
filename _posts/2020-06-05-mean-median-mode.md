@@ -11,4 +11,4 @@ If you like it please give a star for <a href="https://github.com/udaykiranreddy
 
 ### Code
 
-<a href="https://github.com/udaykiranreddykondreddy/Code-for-learn-machinelearning/blob/master/math/statistics/mean_mode_median.ipynb"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+<a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/blob/master/math/statistics/mean_mode_median.ipynb"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
