@@ -1,10 +1,6 @@
 ---
 permalink: /100daysofmlcode/
-layout: iframe
 title: 100daysofmlcode
-item: 1
-auto: true
-loop: true
 ---
 
 # 100daysofmlcode
@@ -55,53 +51,3 @@ loop: true
 ### Day 45 - Learn about importance of features and methods to select the best features.
 ### Day 46 - Learn about curse of dimensionality 
 ### Day 47 - Learn SVM (support vector machines) algorithm.
-
-## What to learn
-
-* ![Day 1](/assets/images/100daysofmlcode/1.jpg)
-* ![Day 2](/assets/images/100daysofmlcode/2.jpg)
-* ![Day 3](/assets/images/100daysofmlcode/3.jpg)
-* ![Day 4](/assets/images/100daysofmlcode/4.jpg)
-* ![Day 5](/assets/images/100daysofmlcode/5.jpg)
-* ![Day 6](/assets/images/100daysofmlcode/6.jpg)
-* ![Day 7](/assets/images/100daysofmlcode/7.jpg)
-* ![Day 8](/assets/images/100daysofmlcode/8.jpg)
-* ![Day 9](/assets/images/100daysofmlcode/9.jpg)
-* ![Day 10](/assets/images/100daysofmlcode/10.jpg)
-* ![Day 11](/assets/images/100daysofmlcode/11.jpg)
-* ![Day 12](/assets/images/100daysofmlcode/12.jpg)
-* ![Day 13](/assets/images/100daysofmlcode/13.jpg)
-* ![Day 14](/assets/images/100daysofmlcode/14.jpg)
-* ![Day 15](/assets/images/100daysofmlcode/15.jpg)
-* ![Day 16](/assets/images/100daysofmlcode/16.jpg)
-* ![Day 17](/assets/images/100daysofmlcode/17.jpg)
-* ![Day 18](/assets/images/100daysofmlcode/18.jpg)
-* ![Day 19](/assets/images/100daysofmlcode/19.jpg)
-* ![Day 20](/assets/images/100daysofmlcode/20.jpg)
-* ![Day 21](/assets/images/100daysofmlcode/21.jpg)
-* ![Day 22](/assets/images/100daysofmlcode/22.jpg)
-* ![Day 23](/assets/images/100daysofmlcode/23.jpg)
-* ![Day 24](/assets/images/100daysofmlcode/24.jpg)
-* ![Day 25](/assets/images/100daysofmlcode/25.jpg)
-* ![Day 26](/assets/images/100daysofmlcode/26.jpg)
-* ![Day 27](/assets/images/100daysofmlcode/27.jpg)
-* ![Day 28](/assets/images/100daysofmlcode/28.jpg)
-* ![Day 29](/assets/images/100daysofmlcode/29.jpg)
-* ![Day 30](/assets/images/100daysofmlcode/30.jpg)
-* ![Day 31](/assets/images/100daysofmlcode/31.jpg)
-* ![Day 32](/assets/images/100daysofmlcode/32.jpg)
-* ![Day 33](/assets/images/100daysofmlcode/33.jpg)
-* ![Day 34](/assets/images/100daysofmlcode/34.jpg)
-* ![Day 35](/assets/images/100daysofmlcode/35.jpg)
-* ![Day 36](/assets/images/100daysofmlcode/36.jpg)
-* ![Day 37](/assets/images/100daysofmlcode/37.jpg)
-* ![Day 38](/assets/images/100daysofmlcode/38.jpg)
-* ![Day 39](/assets/images/100daysofmlcode/39.jpg)
-* ![Day 40](/assets/images/100daysofmlcode/40.jpg)
-* ![Day 41](/assets/images/100daysofmlcode/41.jpg)
-* ![Day 42](/assets/images/100daysofmlcode/42.jpg)
-* ![Day 43](/assets/images/100daysofmlcode/43.jpg)
-* ![Day 44](/assets/images/100daysofmlcode/44.jpg)
-* ![Day 45](/assets/images/100daysofmlcode/45.jpg)
-* ![Day 46](/assets/images/100daysofmlcode/46.jpg)
-* ![Day 47](/assets/images/100daysofmlcode/47.jpg)
