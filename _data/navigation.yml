@@ -12,3 +12,5 @@ main:
     url: /contact/
   - title: "100daysOfMLCode"
     url: /100daysofmlcode/
+    - title: "100daysOfMLCode1"
+    url: /100daysofmlcode1/

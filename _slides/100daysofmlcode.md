@@ -1,7 +1,7 @@
 ---
-permalink: /100daysofmlcode/
+permalink: /100daysofmlcode1/
 layout: iframe
-title: 100daysofmlcode
+title: 100daysofmlcode1
 item: 1
 auto: true
 loop: true
