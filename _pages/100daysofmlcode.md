@@ -3,8 +3,6 @@ permalink: /100daysofmlcode/
 title: 100DaysOfMLCode
 ---
 
-# 100DaysOfMLCode
-
 #### Day 1 - Learn Python (Syntax, Keywords, Variables, Datatypes, Input & Output, Operators, Control flow, Loops, List, Tuple, Dictionary, Sets, Strings)
 #### Day 2 - Learn Python (Functions, Modules, Packages, Object oriented programming)
 #### Day 3 - Learn Numpy (Basic Functionalities, Matrix operations)
