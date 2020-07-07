@@ -51,3 +51,56 @@ title: 100DaysOfMLCode
 ### Day 45 - Learn about importance of features and methods to select the best features.
 ### Day 46 - Learn about curse of dimensionality 
 ### Day 47 - Learn SVM (support vector machines) algorithm.
+### Day 48 - Learn about kernel trick, polynomial kernel and RBF kernel in SVM
+### Day 49 - Learn about SVR (support vector regression)
+### Day 50 - Practice what you learned SVM on a dataset + hyperparameter tuning
+### Day 51 - Practice what you learned SVM on a dataset + hyperparameter tuning + regularization
+### Day 52 - Practice what you learned SVR on a dataset + hyperparameter tuning + regularization
+### Day 53 - Learn Conditional probability, Bayes theorem and Naive Bayes
+### Day 54 - Take a toy dataset and apply Naive bayes algorithm
+### Day 55 - Learn about Laplace/additive smooting of Naive Bayes
+### Day 56 - Apply Naive bayes on imbalanced dataset, dataset with outliers and dataset with missing values.
+### Day 57 - Learn how to handle nemerical features using Naive bayes (Gaussian Naive Bayes)
+### Day 58 - Learn the best and worst cases on Naive Bayes algorithm
+### Day 59 - Learn about Entropy, Information gain / Gini impurity of Decision trees
+### Day 60 - Take a small dataset and build 
+### Day 61 - 
+### Day 62 - 
+### Day 63 - 
+### Day 64 - 
+### Day 65 - 
+### Day 66 - 
+### Day 67 - 
+### Day 68 - 
+### Day 69 - 
+### Day 70 - 
+### Day 71 - 
+### Day 72 - 
+### Day 73 - 
+### Day 74 - 
+### Day 75 - 
+### Day 76 - 
+### Day 77 - 
+### Day 78 - 
+### Day 79 - 
+### Day 80 - 
+### Day 81 - 
+### Day 82 - 
+### Day 83 - 
+### Day 84 - 
+### Day 85 - 
+### Day 86 - 
+### Day 87 - 
+### Day 88 - 
+### Day 89 - 
+### Day 90 - 
+### Day 91 - 
+### Day 92 - 
+### Day 93 - 
+### Day 94 - 
+### Day 95 - 
+### Day 96 - 
+### Day 97 - 
+### Day 98 - 
+### Day 99 - 
+### Day 100 - 
