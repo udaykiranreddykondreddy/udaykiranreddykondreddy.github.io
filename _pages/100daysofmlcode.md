@@ -10,7 +10,7 @@ You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's
 
 ### #100daysofmlcode
 
-<img src="/assets/images/100daysofmlcode/1.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/2.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/3.png" width="250" height="250"><br><br>
+<img src="/assets/images/100daysofmlcode/1.png" width="250" height="300"> <img src="/assets/images/100daysofmlcode/2.png" width="250" height="300"> <img src="/assets/images/100daysofmlcode/3.png" width="250" height="300"><br><br>
 <img src="/assets/images/100daysofmlcode/4.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/5.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/6.png" width="250" height="250"><br><br>
 <img src="/assets/images/100daysofmlcode/7.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/8.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/9.png" width="250" height="250"><br><br>
 <img src="/assets/images/100daysofmlcode/10.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/11.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/12.png" width="250" height="250"><br><br>
