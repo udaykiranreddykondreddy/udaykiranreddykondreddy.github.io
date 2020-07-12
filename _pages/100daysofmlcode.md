@@ -3,46 +3,47 @@ permalink: /100daysofmlcode/
 title: 100DaysOfMLCode
 ---
 
-## Note: <b>You won't "learn" machine learning in 30, 60, 100, 300, etc.. days. It's important to know how to build useful learning machines,  Only way to do it is training several non-trivial machines. It's a life long learning process. No hurry, Take your time and do it right.</b>
+## Note: 
+You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's important to know how to build useful learning machines,  Only way to do it is training several non-trivial machines. It's a life long learning process. No hurry, Take your time and do it right.
 
 
 
 ### #100daysofmlcode
 
-<img src="/assets/images/100daysofmlcode/1.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/2.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/3.png" width="300" height="300"><br><br><br>
-<img src="/assets/images/100daysofmlcode/2.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/5.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/6.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/7.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/8.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/9.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/10.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/11.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/12.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/13.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/14.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/15.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/16.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/17.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/18.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/19.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/20.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/21.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/22.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/23.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/24.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/25.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/26.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/27.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/28.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/29.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/30.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/31.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/32.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/33.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/34.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/35.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/36.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/37.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/38.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/39.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/40.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/41.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/42.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/43.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/44.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/45.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/46.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/47.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/48.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/49.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/50.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/51.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/52.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/53.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/54.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/55.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/56.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/57.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/58.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/59.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/60.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/61.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/62.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/63.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/64.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/65.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/66.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/67.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/68.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/69.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/70.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/71.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/72.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/73.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/74.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/75.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/76.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/77.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/78.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/79.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/80.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/81.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/82.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/83.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/84.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/85.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/86.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/87.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/88.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/89.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/90.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/91.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/92.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/93.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/94.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/95.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/96.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/97.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/98.png" width="300" height="300"> <img src="/assets/images/100daysofmlcode/99.png" width="300" height="300"><br>
-<img src="/assets/images/100daysofmlcode/100.png" width="300" height="300"> <br>
+<img src="/assets/images/100daysofmlcode/1.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/2.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/3.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/2.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/5.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/6.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/7.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/8.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/9.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/10.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/11.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/12.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/13.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/14.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/15.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/16.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/17.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/18.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/19.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/20.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/21.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/22.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/23.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/24.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/25.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/26.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/27.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/28.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/29.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/30.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/31.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/32.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/33.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/34.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/35.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/36.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/37.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/38.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/39.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/40.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/41.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/42.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/43.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/44.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/45.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/46.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/47.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/48.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/49.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/50.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/51.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/52.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/53.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/54.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/55.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/56.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/57.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/58.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/59.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/60.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/61.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/62.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/63.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/64.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/65.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/66.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/67.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/68.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/69.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/70.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/71.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/72.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/73.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/74.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/75.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/76.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/77.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/78.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/79.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/80.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/81.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/82.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/83.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/84.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/85.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/86.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/87.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/88.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/89.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/90.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/91.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/92.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/93.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/94.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/95.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/96.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/97.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/98.png" width="275" height="275"> <img src="/assets/images/100daysofmlcode/99.png" width="275" height="275"><br><br>
+<img src="/assets/images/100daysofmlcode/100.png" width="275" height="275"> <br><br>
 
 #### Day 1 - Learn Python (Syntax, Keywords, Variables, Datatypes, Input & Output, Operators, Control flow, Loops, List, Tuple, Dictionary, Sets, Strings)
 #### Day 2 - Learn Python (Functions, Modules, Packages, Object oriented programming)
