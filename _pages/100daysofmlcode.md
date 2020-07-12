@@ -7,10 +7,7 @@ title: 100DaysOfMLCode
 You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's important to know how to build useful learning machines,  Only way to do it is training several non-trivial machines. It's a life long learning process. No hurry, Take your time and do it right.
 
 
-
-### #100daysofmlcode
-
-<img src="/assets/images/100daysofmlcode/1.png" width="375" height="375"> <img src="/assets/images/100daysofmlcode/2.png" width="375" height="375"> <br>
+<a href="https://www.udaykiran.dev/day1-resources"><img src="/assets/images/100daysofmlcode/1.png" width="375" height="375"> <img src="/assets/images/100daysofmlcode/2.png" width="375" height="375"> <br>
 
 <img src="/assets/images/100daysofmlcode/3.png" width="375" height="375"> <img src="/assets/images/100daysofmlcode/4.png" width="375" height="375"> <br>
 
@@ -109,6 +106,8 @@ You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's
 <img src="/assets/images/100daysofmlcode/97.png" width="375" height="375"> <img src="/assets/images/100daysofmlcode/98.png" width="375" height="375"> <br>
 
 <img src="/assets/images/100daysofmlcode/99.png" width="375" height="375"> <img src="/assets/images/100daysofmlcode/100.png" width="375" height="375"> <br>
+
+<img src="/assets/images/100daysofmlcode/101.png" width="375" height="375">
 
 
 <!---
