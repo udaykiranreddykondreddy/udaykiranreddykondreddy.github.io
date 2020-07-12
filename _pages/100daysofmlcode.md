@@ -11,7 +11,7 @@ You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's
 ### #100daysofmlcode
 
 <img src="/assets/images/100daysofmlcode/1.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/2.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/3.png" width="250" height="250"><br><br>
-<img src="/assets/images/100daysofmlcode/2.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/5.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/6.png" width="250" height="250"><br><br>
+<img src="/assets/images/100daysofmlcode/4.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/5.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/6.png" width="250" height="250"><br><br>
 <img src="/assets/images/100daysofmlcode/7.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/8.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/9.png" width="250" height="250"><br><br>
 <img src="/assets/images/100daysofmlcode/10.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/11.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/12.png" width="250" height="250"><br><br>
 <img src="/assets/images/100daysofmlcode/13.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/14.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/15.png" width="250" height="250"><br><br>
@@ -45,6 +45,7 @@ You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's
 <img src="/assets/images/100daysofmlcode/97.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/98.png" width="250" height="250"> <img src="/assets/images/100daysofmlcode/99.png" width="250" height="250"><br><br>
 <img src="/assets/images/100daysofmlcode/100.png" width="250" height="250"> <br><br>
 
+<!---
 #### Day 1 - Learn Python (Syntax, Keywords, Variables, Datatypes, Input & Output, Operators, Control flow, Loops, List, Tuple, Dictionary, Sets, Strings)
 #### Day 2 - Learn Python (Functions, Modules, Packages, Object oriented programming)
 #### Day 3 - Learn Numpy (Basic Functionalities, Matrix operations)
@@ -144,3 +145,4 @@ You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's
 #### Day 98 -  Learn how to deploy your ML models on cloud(GCP) - 2
 #### Day 99 - Learn how to deploy your ML models on cloud(Azure) - 1
 #### Day 100 - Learn how to deploy your ML models on cloud(Azure) - 2
+-->
