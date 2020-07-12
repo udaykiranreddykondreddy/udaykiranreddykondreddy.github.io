@@ -6,8 +6,8 @@ title: 100DaysOfMLCode
 ## Note
 You won't "learn" machine learning in 30, 60, 100, 250, etc.. days. It's important to know how to build useful learning machines,  Only way to do it is training several non-trivial machines. It's a life long learning process. No hurry, Take your time and do it right.
 
-![Test Image 3](/assets/images/100daysofmlcode/1.jpg)![Test Image 3](/assets/images/100daysofmlcode/1.jpg)![Test Image 3](/assets/images/100daysofmlcode/1.jpg)
-<img src="/assets/images/100daysofmlcode/1.jpg" width="250" height="250"><img src="/assets/images/100daysofmlcode/1.jpg" width="250" height="250"><img src="/assets/images/100daysofmlcode/1.jpg" width="250" height="250">
+![Test Image 3](/assets/images/100daysofmlcode/1.png)![Test Image 3](/assets/images/100daysofmlcode/1.png)![Test Image 3](/assets/images/100daysofmlcode/1.png)
+<img src="/assets/images/100daysofmlcode/1.png" width="250" height="250"><img src="/assets/images/100daysofmlcode/1.png" width="250" height="250"><img src="/assets/images/100daysofmlcode/1.png" width="250" height="250">
 
 #### Day 1 - Learn Python (Syntax, Keywords, Variables, Datatypes, Input & Output, Operators, Control flow, Loops, List, Tuple, Dictionary, Sets, Strings)
 #### Day 2 - Learn Python (Functions, Modules, Packages, Object oriented programming)
