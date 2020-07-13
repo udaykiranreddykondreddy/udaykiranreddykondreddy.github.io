@@ -48,7 +48,7 @@ You won't "learn" machine learning in 1, 2, 7, 30, 60, 90, 150, etc.. days. It's
 
 <a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/blob/master/100daysofmlcode/DAY-39-RESOURCES.md"><img src="/assets/images/100daysofmlcode/39.png" width="375" height="375"></a> <a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/blob/master/100daysofmlcode/DAY-40-RESOURCES.md"><img src="/assets/images/100daysofmlcode/40.png" width="375" height="375"></a> <br>
 
-><img src="/assets/images/100daysofmlcode/41.png" width="375" height="375"> <a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/blob/master/100daysofmlcode/DAY-42-RESOURCES.md"><img src="/assets/images/100daysofmlcode/42.png" width="375" height="375"></a> <br>
+<img src="/assets/images/100daysofmlcode/41.png" width="375" height="375"> <a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/blob/master/100daysofmlcode/DAY-42-RESOURCES.md"><img src="/assets/images/100daysofmlcode/42.png" width="375" height="375"></a> <br>
 
 <img src="/assets/images/100daysofmlcode/43.png" width="375" height="375"> <a href="https://github.com/udaykondreddy/Code-for-learn-machinelearning/blob/master/100daysofmlcode/DAY-44-RESOURCES.md"><img src="/assets/images/100daysofmlcode/44.png" width="375" height="375"></a> <br>
 
