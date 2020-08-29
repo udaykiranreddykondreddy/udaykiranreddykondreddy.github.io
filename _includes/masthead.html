@@ -11,9 +11,7 @@
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
-            {% if '100DaysOfMLCode' not in link.title %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
