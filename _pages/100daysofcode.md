@@ -1,6 +1,6 @@
 ---
 permalink: /100daysofcode/
-title: 100DaysMLCode
+title: 100DaysOfCode
 ---
 
 ## Note: 
