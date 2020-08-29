@@ -8,7 +8,7 @@ main:
     url: /community/
   - title: "Projects"
     url: /projects/
-  - title: "100DaysOfMLCode"
-    url: /100daysofmlcode/
+  - title: "100DaysOfCode"
+    url: /100daysofcode/
   - title: "Contact"
     url: /contact/
