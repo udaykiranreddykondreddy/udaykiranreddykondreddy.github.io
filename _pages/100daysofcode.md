@@ -1,5 +1,6 @@
 ---
 permalink: /100daysofcode/
+title: 100DaysOfCode
 ---
 
 ## Click the card to to start 100daysofmlcode or 100daysofdlcode
