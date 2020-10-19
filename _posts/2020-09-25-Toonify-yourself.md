@@ -1,6 +1,6 @@
 ---
 title: "Toonify yourself"
-date: 2020-04-15 5:00:00
+date: 2020-09-25 8:45:00
 ---
 
 This tutorial will give you a very intuitive explanation of how toonify works with code demo.

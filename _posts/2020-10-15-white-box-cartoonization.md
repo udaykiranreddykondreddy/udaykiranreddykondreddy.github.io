@@ -1,6 +1,6 @@
 ---
 title: "White box cartoonization"
-date: 2020-04-15 5:00:00
+date: 2020-10-15 8:45:00
 ---
 
 This tutorial will give you a very intuitive explanation of how white box cartoonization works with code demo.
