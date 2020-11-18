@@ -1,5 +1,5 @@
 ---
-title: "Deploy deep learning model with TensorFlow serving"
+title: "Deploy deep learning models with TensorFlow serving"
 date: 2020-11-13 6:45:00
 ---
 
