@@ -5,7 +5,7 @@ title: "Talks"
 
 
 ### Getting started with Machine Learning
-<p>I was given a presentation on the Introduction to Artificial Intelligence and it's applications at Developer student club (DSC VVP) webinar.</p>
+<p>I was given a presentation on the Introduction to Artificial Intelligence and it's applications, Introduction to Machine Learning and how it works and Getting started with Machine Learning, Project end to end steps and different career paths at Developer student club (DSC VVP) webinar.</p>
 <a href="https://speakerdeck.com/udaykondreddy/introduction-to-artificial-intelligence"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a> <a href="https://speakerdeck.com/udaykondreddy/introduction-to-machine-learning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a> <a href="https://speakerdeck.com/udaykondreddy/getting-started-with-machine-learning-and-different-career-paths"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a>  <a href="https://youtu.be/hBOf7Iak2gE"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://dsc.community.dev/events/details/developer-student-clubs-vyavasayi-vidya-pratishthan-engineering-college-presents-getting-started-with-machine-learning/#/"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-text-o fa-2x" aria-hidden="true"></i></a>
 
 ### Breaking the black box of neural networks
