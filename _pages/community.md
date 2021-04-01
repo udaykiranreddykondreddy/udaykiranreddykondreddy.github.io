@@ -8,7 +8,7 @@ title: "Learn Machine Learning Community"
 
 <img src="/assets/images/logo.png" width="250" height="250">
 
-I believe one thing is sharing by learning. I learned a lot from the community and this is the time I should give it back. So I started a community to share my knowledge regarding machine learning and related domains. This community has around 250000+ ML enthusiasts who are willing to learn. Because of this community, I'm learned a lot and shared a lot.
+I believe one thing which is learning by sharing. I learned a lot from the community and this is the time I should give it back. So I started a community to share my knowledge regarding machine learning and related domains. This community has around 250000+ ML enthusiasts who are willing to learn. Because of this community, I learned a lot and shared a lot.
 
 You can find my community on Linkedin, Instagram, Telegram, Youtube
 
