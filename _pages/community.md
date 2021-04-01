@@ -10,7 +10,7 @@ title: "Learn Machine Learning Community"
 
 This is an online community of around 250000 Machine learning enthusiasts, which I created to encourage beginners to get into this field and learn something new every day. This community helped me to grow technically and personally, which also offered me to be a Content creator, project mentor, tech speaker, YouTuber, Influencer, Evangelist and many.
 
-You can find my community on Linkedin, Instagram, Twitter, Telegram, Youtube
+You can find my community on Linkedin, Instagram, Telegram, Youtube
 
 ### Social channels
 
