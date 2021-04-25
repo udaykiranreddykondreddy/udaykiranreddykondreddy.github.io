@@ -15,12 +15,12 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 
 ### Content
 
-<embed src="/assets/pdfs/artificial%20intelligence/Biased_artificial_intelligence.pdf" type="application/pdf"   height="500px" width="500">
+<embed src="/assets/pdfs/artificial%20intelligence/Biased_artificial_intelligence.pdf" type="application/pdf"   height="350px" width="350">
 
-<iframe src="/assets/pdfs/artificial%20intelligence/Biased_artificial_intelligence.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="/assets/pdfs/artificial%20intelligence/Biased_artificial_intelligence.pdf" style="width:350px; height:350px;" frameborder="0"></iframe>
 
-<object data="/assets/pdfs/artificial%20intelligence/Biased_artificial_intelligence.pdf" type="application/pdf" width="300" height="200">
-<a href="data/test.pdf">test.pdf</a>
+<object data="/assets/pdfs/artificial%20intelligence/Biased_artificial_intelligence.pdf" type="application/pdf" width="350" height="350">
+<a href="data/test.pdf">click here to download it</a>
 </object>
 
 
