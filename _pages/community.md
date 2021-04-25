@@ -15,13 +15,13 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 ### Social channels
 
 
-<a href="https://www.instagram.com/learn.machinelearning/"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-instagram fa-6x" aria-hidden="true"></i></a>  Followers Count - 216000+
+<a href="https://www.instagram.com/learn.machinelearning/"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-instagram fa-6x" aria-hidden="true"></i></a>  Followers Count - 218000+ (Got Hacked)
 
 <a href="https://www.linkedin.com/company/learn-machine-learning/"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-linkedin fa-6x" aria-hidden="true"></i></a>  Followers Count - 34000+
 
 <a href="https://telegram.me/LearnDotMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-telegram fa-6x" aria-hidden="true"></i></a>  Followers Count - 9600+
 
-<a href="https://www.youtube.com/c/LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-6x" aria-hidden="true"></i></a>  Subscribers Count - 2700+
+<a href="https://www.youtube.com/c/LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-6x" aria-hidden="true"></i></a>  Subscribers Count - 2800+
 
 
 
