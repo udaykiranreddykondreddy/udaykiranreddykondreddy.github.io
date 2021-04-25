@@ -54,7 +54,7 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 </ol>
 
 
-### Data Preprocessing
+### Data Science
 <ol>
 <li><a href="https://github.com/udaykondreddy/udaykondreddy.github.io/blob/master/assets/pdfs/data%20science/Data_science_project_life_cycle.pdf">Data Science Project LifeCycle</a></li>
 <li><a href="https://github.com/udaykondreddy/udaykondreddy.github.io/blob/master/assets/pdfs/data%20science/data_science_project_steps.pdf">Data Science Project Steps</a></li>
