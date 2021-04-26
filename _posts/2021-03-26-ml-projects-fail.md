@@ -15,4 +15,4 @@ In this tutorial, I explained why 87% of the machine learning projects fail to m
 
 ## Video and Code
 
-<a href="https://www.youtube.com/watch?v=MIm5eNOcuAY&ab_channel=LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/watch?v=MIm5eNOcuAY&ab_channel=LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://speakerdeck.com/udaykondreddy/machine-learning-projects-fail-in-production"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a>

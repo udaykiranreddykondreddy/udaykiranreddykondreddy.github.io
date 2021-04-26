@@ -13,4 +13,4 @@ In this tutorial, I explained about Machine learning lifecycle.
 
 ## Video and Code
 
-<a href="https://www.youtube.com/watch?v=hrH8EUf9Z3s&ab_channel=LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/watch?v=hrH8EUf9Z3s&ab_channel=LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://speakerdeck.com/udaykondreddy/machine-learning-lifecycle"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a>

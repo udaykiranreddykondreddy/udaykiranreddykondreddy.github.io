@@ -28,6 +28,8 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/artificial%20intelligence/is_your_job_at_risk_because_of_AI.pdf">Is Your Job At Rist Because Of AI</a></li>
 <li><a href="/assets/pdfs/artificial%20intelligence/what_if_ai_takes_over_the_world.pdf">What If AI Takes Over The World</a></li>
 <li><a href="/assets/pdfs/artificial%20intelligence/When_AI_fails.pdf">When Artificial Intelligence Fails</a></li>
+<li><a href="/assets/pdfs/artificial%20intelligence/AI_and_IOT.pdf">When Artificial Intelligence Meets Internet Of Things (IoT)</a></li>
+<li><a href="/assets/pdfs/artificial%20intelligence/AI_social_media_addictive.pdf">Learn How AI Makes Us Social Media Addictive</a></li>
 </ol>
 
 ### Data Preprocessing
@@ -70,6 +72,9 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/data%20science/the_data_science_hierarchy_of_needs.pdf">The Data Science Of Hierarchy Of Needs</a></li>
 <li><a href="/assets/pdfs/data%20science/top_mistakes_that_beginner_data_scientists_make.pdf">Beginner Mistakes To Avoid As A Data Scientist</a></li>
 <li><a href="/assets/pdfs/data%20science/what_data_scientists_really_do.pdf">What Does Really Data Scientists Do</a></li>
+<li><a href="/assets/pdfs/data%20science/data_science_usecases.pdf">Top Data Science Usecases</a></li>
+<li><a href="/assets/pdfs/data%20science/mistakes_to_avoid_as_a_data_scientist.pdf">Mistakes To Avoid As a Data Scientist</a></li>
+<li><a href="/assets/pdfs/data%20science/you_should_not_data_scientist.pdf">You Should Not Become A Data Scientist</a></li>
 </ol>
 
 
@@ -89,6 +94,7 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/deep%20learning/miscellaneous/best_deep_learning_laptops.pdf">Best Deep Learning Laptops</a></li>
 <li><a href="/assets/pdfs/deep%20learning/miscellaneous/nlp_pipeline.pdf">NLP Pipeline</a></li>
 <li><a href="/assets/pdfs/deep%20learning/miscellaneous/sota_models_and_datasets.pdf">Different Sota Models And Datasets</a></li>
+<li><a href="/assets/pdfs/deep%20learning/data_annotation.pdf">Spend Less Time On Data Annotation</a></li>
 </ol>
 
 
@@ -105,6 +111,7 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/deep%20learning/algorithms/how_text_to_speech_works.pdf">Learn How Text To Speech Works</a></li>
 <li><a href="/assets/pdfs/deep%20learning/algorithms/technical_guide_to_gpt-3.pdf">Technical Guide to GPT-3</a></li>
 <li><a href="/assets/pdfs/deep%20learning/algorithms/text_classification_using_bert.pdf">Text Classification Using BERT</a></li>
+<li><a href="/assets/pdfs/deep%20learning/images_from_text_using_openai_dalle.pdf">Create Images From Text Using OpenAI DALL-E</a></li>
 </ol>
 
 
@@ -166,6 +173,10 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/machine%20learning/algorithms/k_medoids.pdf">K Medoids In Detail</a></li>
 <li><a href="/assets/pdfs/machine%20learning/algorithms/hierarchical_clustering_indetail.pdf">Hierarchical Clustering In Detail</a></li>
 <li><a href="/assets/pdfs/machine%20learning/algorithms/dbscan_indetail.pdf">DBScan In Detail</a></li>
+<li><a href="/assets/pdfs/machine%20learning/algorithms/how_to_approach_any_ml_problem.pdf">Learn How To Approach Any Machine Learning Problem</a></li>
+<li><a href="/assets/pdfs/machine%20learning/algorithms/ml_algorithm_expectations.pdf">Machine Learning Algorithms Expectations</a></li>
+<li><a href="/assets/pdfs/machine%20learning/algorithms/ml_terms_you_should_know.pdf">Machine Learning Terms You Should Know</a></li>
+<li><a href="/assets/pdfs/machine%20learning/algorithms/next_big_thing_in_ml.pdf">Next Big Thing In Machine Learning</a></li>
 </ol>
 
 
@@ -185,6 +196,11 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/machine%20learning/important%20things/model_performance_on_test_and_train_data.pdf">Model Performance on Test And Train Data</a></li>
 <li><a href="/assets/pdfs/machine%20learning/important%20things/steps_to_consider_while_applying_ml_algorithms.pdf">Steps To Consider While Applying Machine Learning Algorithms</a></li>
 <li><a href="/assets/pdfs/machine%20learning/important%20things/what_is_loss_function.pdf">What Is Loss Function</a></li>
+<li><a href="/assets/pdfs/machine%20learning/important%20things/different_distance_measures.pdf">Different Distance Measures In Machine Learning</a></li>
+<li><a href="/assets/pdfs/machine%20learning/important%20things/feature_scaling_in_ml.pdf">Feature Scaling In Machine Learning (Normalization And Standardization</a></li>
+<li><a href="/assets/pdfs/machine%20learning/important%20things/increase_your_Data.pdf">Increase Your Dataset Size</a></li>
+<li><a href="/assets/pdfs/machine%20learning/important%20things/ml_in_one_line_code.pdf">Fit And Evaluate All Machine Learning Models In One Line Of Code</a></li>
+<li><a href="/assets/pdfs/machine%20learning/important%20things/starting_your_first_machine_learning_project.pdf">Starting your First Machine Learning Project</a></li>
 </ol>
 
 ### Machine Learning Miscellaneous 
@@ -206,6 +222,10 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/machine%20learning/miscellaneous/what_is_statistical_learning.pdf">What Is Statistical Learning</a></li>
 <li><a href="/assets/pdfs/machine%20learning/miscellaneous/what_makes_a_good_ml_engineer.pdf">What Makes A Good Machine Learning Engineer</a></li>
 <li><a href="/assets/pdfs/machine%20learning/miscellaneous/when_to_use_machine_learning.pdf">When To Use Machine Learning</a></li>
+<li><a href="/assets/pdfs/machine%20learning/miscellaneous/AI_for_web_development.pdf">Learn How AI Is Used For Web Development</a></li>
+<li><a href="/assets/pdfs/machine%20learning/miscellaneous/AI_in_space.pdf">Learn How Machine Learning Is Used In Astronomy</a></li>
+<li><a href="/assets/pdfs/machine%20learning/miscellaneous/how_ml_help_women.pdf">Learn How Machine Learning Can Help Women</a></li>
+<li><a href="/assets/pdfs/machine%20learning/miscellaneous/why_python_for_ml.pdf">Why Python For Machine Learning</a></li>
 </ol>
 
 
@@ -222,6 +242,7 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/math/statistics_and_probability.pdf">Statistics And Probability</a></li>
 <li><a href="/assets/pdfs/math/tsne_indetail.pdf">T-SNE In Detail</a></li>
 <li><a href="/assets/pdfs/math/why_linear_algebra_for_machine_learning.pdf">Why Linear Algebra For Machine Learning</a></li>
+<li><a href="/assets/pdfs/math/what_is_DR.pdf">What is Dimensionality Reduction</a></li>
 </ol>
 
 
@@ -254,16 +275,9 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/resources/my_favourite_free_learning_resources.pdf">My Favourite Free Learning Resources</a></li>
 <li><a href="/assets/pdfs/resources/python_libraries_for%20robotics.pdf">Python Libraries For Robotics</a></li>
 <li><a href="/assets/pdfs/resources/top_deeplearning_frameworks.pdf">Top Deep Learning Frameworks</a></li>
-<li><a href="/assets/pdfs/resources/top_math_related_youtube_channels.pdff">Top Math Related Youtube Channels</a></li>
+<li><a href="/assets/pdfs/resources/top_math_related_youtube_channels.pdf">Top Math Related Youtube Channels</a></li>
+<li><a href="/assets/pdfs/resources/popular_machine_learning_courses.pdf">Most Popular Machine Learning Courses</a></li>
 </ol>
-
-
-### Model Deployment
-<ol>
-<li><a href="/assets/pdfs/model%20deploy/Deploy_ML_models_on_heroku_using_flask.pdf">Deploy ML Models On Heroku Using Flask</a></li>
-<li><a href="/assets/pdfs/model%20deploy/Save_machine_learning_models.pdf">Save Machine Learning Models</a></li>
-</ol>
-
 
 ### Miscellaneous
 <ol>
@@ -281,6 +295,26 @@ You can find my community on Linkedin, Instagram, Telegram, Youtube
 <li><a href="/assets/pdfs/miscellaneous/start_your_kaggle_journey.pdf">Start Your Kaggle Journey</a></li>
 <li><a href="/assets/pdfs/miscellaneous/top_masters_programs_in_ml.pdf">Top Masters Programs In Machine Learning</a></li>
 <li><a href="/assets/pdfs/miscellaneous/why_kaggle.pdf">Why Kaggle</a></li>
+<li><a href="/assets/pdfs/miscellaneous/jupyter_notebook_extensions.pdf">Must Have Jupyter Notebook Extensions</a></li>
+</ol>
+
+
+### Model Deployment
+<ol>
+<li><a href="/assets/pdfs/model%20deploy/Deploy_ML_models_on_heroku_using_flask.pdf">Deploy ML Models On Heroku Using Flask</a></li>
+<li><a href="/assets/pdfs/model%20deploy/Save_machine_learning_models.pdf">Save Machine Learning Models</a></li>
+</ol>
+
+
+### MLOPS
+<ol>
+<li><a href="/assets/pdfs/mlops/abtesting.pdf">Learn How A/B Testing Works</a></li>
+<li><a href="/assets/pdfs/mlops/devops_vs_mlops.pdf">Difference Between DevOps And MLOps</a></li>
+<li><a href="/assets/pdfs/mlops/introduction_to_mlops.pdf">Introduction To Machine Learning Operations (MLOPS)</a></li>
+<li><a href="/assets/pdfs/mlops/machinelearning_lifecycle.pdf">Machine Learning LifeCycle</a></li>
+<li><a href="/assets/pdfs/mlops/mlopsfails_in_production.pdf">This Is Why Machine Learning Models Fails In Production</a></li>
+<li><a href="https://github.com/udaykondreddy/udaykondreddy.github.io/blob/master/assets/pdfs/mlops/mlpipeline.pdf">Learn How To Build Machine Learning Pipelines</a></li>
+<li><a href="/assets/pdfs/mlops/track_ml_experiments.pdf">Track All Your Machine Learning Models Using MLFOW</a></li>
 </ol>
 
 ### Social channels

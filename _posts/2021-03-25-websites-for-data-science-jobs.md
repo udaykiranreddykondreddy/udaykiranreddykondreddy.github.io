@@ -13,4 +13,4 @@ In this tutorial, I explained what are the Best Websites To Find Data Science Jo
 
 ## Video and Code
 
-<a href="https://www.youtube.com/watch?v=SMSiQgeoWeI&ab_channel=LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/watch?v=SMSiQgeoWeI&ab_channel=LearnMachineLearning"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a> <a href="https://speakerdeck.com/udaykondreddy/best-websites-to-find-data-science-jobs"  class="btn btn-info" role="button" target="_blank"> <i class="fa fa-file-powerpoint-o fa-2x" aria-hidden="true"></i></a>
