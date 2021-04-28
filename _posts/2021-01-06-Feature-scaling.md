@@ -1,6 +1,6 @@
 ---
 title: "What is Feature Scaling and When to use it"
-date: 2020-11-13 6:45:00
+date: 2021-01-06 6:45:00
 ---
 
 In this tutorial, I explained what is What is Feature Scaling and When to use it. And also a small demo on how to do it with multiple use cases. 

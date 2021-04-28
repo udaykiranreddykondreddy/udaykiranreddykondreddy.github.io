@@ -1,6 +1,6 @@
 ---
 title: "Machine learning roadmap from zero to hero"
-date: 2020-11-13 6:45:00
+date: 2021-03-09 6:45:00
 ---
 
 In this tutorial, I explained Machine learning roadmap from zero to hero

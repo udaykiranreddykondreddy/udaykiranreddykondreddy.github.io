@@ -1,6 +1,6 @@
 ---
 title: "Best Websites To Find Data Science Jobs"
-date: 2020-11-13 6:45:00
+date: 2021-03-25 6:45:00
 ---
 
 In this tutorial, I explained what are the Best Websites To Find Data Science Jobs

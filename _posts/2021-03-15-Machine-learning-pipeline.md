@@ -1,6 +1,6 @@
 ---
 title: "Build Machine learning pipeline with scikit learn"
-date: 2020-11-13 6:45:00
+date: 2021-03-15 6:45:00
 ---
 
 In this tutorial, I explained how to Build Machine learning pipeline with scikit learn And also a small demo on how to do it with multiple use cases. 

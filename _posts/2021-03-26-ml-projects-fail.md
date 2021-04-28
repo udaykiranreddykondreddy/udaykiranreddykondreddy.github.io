@@ -1,7 +1,7 @@
 ---
 title: "87% of the machine learning projects fail to make into production.
 "
-date: 2020-11-13 6:45:00
+date: 2021-03-26 6:45:00
 ---
 
 In this tutorial, I explained why 87% of the machine learning projects fail to make into production.

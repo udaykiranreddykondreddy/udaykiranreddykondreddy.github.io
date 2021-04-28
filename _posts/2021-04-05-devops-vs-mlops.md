@@ -1,5 +1,5 @@
 ---
-title: "Learn The Difference Betwwen DevOps And MLOps"
+title: "Learn The Difference Between DevOps And MLOps"
 date: 2020-04-05 6:45:00
 ---
 

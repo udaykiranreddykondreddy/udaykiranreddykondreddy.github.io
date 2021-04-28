@@ -1,6 +1,6 @@
 ---
 title: "Machine learning lifecycle"
-date: 2020-11-13 6:45:00
+date: 2021-03-23 6:45:00
 ---
 
 In this tutorial, I explained about Machine learning lifecycle. 

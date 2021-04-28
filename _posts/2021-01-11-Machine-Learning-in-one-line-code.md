@@ -1,6 +1,6 @@
 ---
 title: "Run all Machine Learning algorithms with one line of code"
-date: 2020-11-13 6:45:00
+date: 2021-01-11 6:45:00
 ---
 
 In this tutorial, I explained how to use LazyPredict which runs all Machine Learning algorithms with just one line of code And also a small demo on how to do it with multiple use cases. 
